@@ -9,8 +9,10 @@ https://www.coursera.org/learn/python-data-visualization/supplement/3wS8w/list-o
 https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
 https://www.reddit.com/r/MachineLearning
 
+
 Valobasha chino? ei nao ettogula valobasha:
 1. https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
+
 
 Machine Learning Projects for Beginners: 
 1. https://github.com/RFShahrear/CSEFest18Bomberman
@@ -21,17 +23,12 @@ Machine Learning Projects for Beginners:
 5. https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners/397
 6. http://www.cse.chalmers.se/~richajo/dit865/assignment1.html
 
+
 Machine Learning Competitions:
 1. https://www.kaggle.com
 2. https://numer.ai/homepage
 3. Find local hackathons
 
-read these to improve English
-1. https://www.project-syndicate.org
-2. https://www.nytimes.com/
-3. http://economist.com
-4. https://www.vocabulary.com/
-5. https://www.wikihow.com/Improve-Your-Writing-Skills
 
 *Next ML Course* 
 1. https://www.coursera.org/specializations/deep-learning
@@ -40,9 +37,11 @@ read these to improve English
 4. https://www.kaggle.com/general/5375
 5. https://developers.google.com/machine-learning/crash-course/
 
+
 Mathematics for Machine Learning:
 1. https://www.edx.org/course/essential-math-for-machine-learning-python-edition
 2. https://www.coursera.org/specializations/mathematics-machine-learning#courses
+
 
 Google Brain/ similar: 
 1. https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected
@@ -51,22 +50,36 @@ Google Brain/ similar:
 4. https://buildyourfuture.withgoogle.com/internships/
 5. https://ai.google/research/teams/brain
 
-some challenges on foobar: https://github.com/n3a9/google-foobar
 
-Rosen Solution: http://rosensolutionmanual.com/?fbclid=IwAR3MrSQGG8C38zO7UIdKGwYY1e03iSZS9wLt3_CXmjkCLVsKyUmFyh-dcJY
+some challenges on foobar: 
+https://github.com/n3a9/google-foobar
+
+
+Rosen Solution: 
+http://rosensolutionmanual.com/?fbclid=IwAR3MrSQGG8C38zO7UIdKGwYY1e03iSZS9wLt3_CXmjkCLVsKyUmFyh-dcJY
+
+
+read these to improve English
+1. https://www.project-syndicate.org
+2. https://www.nytimes.com/
+3. http://economist.com
+4. https://www.vocabulary.com/
+5. https://www.wikihow.com/Improve-Your-Writing-Skills
 
 
 Blogs:
 1. Monisha apu: https://monishamomotaz.blogspot.com
 2. Shoriful Islam Sagore: http://0xshoriful.me/
 
+
 Some random shits on the internet:
-1. https://alternativeto.net/
-2. https://www.muscleandstrength.com/workouts/body-god-complete-bodyweight-muscle-building-plan
-3. http://www.lmgtfy.com/
-4. https://www.quora.com/Does-internet-service-provider-track-the-websites-you-visit
-5. http://rs.io/100-interesting-data-sets-for-statistics/
-6. https://scholar.google.com/
-7. https://www.howtocode.com.bd/
-8. https://internshala.com/internships/artificial%20intelligence%20(ai)-internship
-9. https://medium.com/swlh/8-timeless-skills-to-learn-now-in-under-8-hours-to-change-your-life-forever-75e7b339373a
+1.  https://alternativeto.net/
+2.  https://www.muscleandstrength.com/workouts/body-god-complete-bodyweight-muscle-building-plan
+3.  http://www.lmgtfy.com/
+4.  https://www.quora.com/Does-internet-service-provider-track-the-websites-you-visit
+5.  http://rs.io/100-interesting-data-sets-for-statistics/
+6.  https://scholar.google.com/
+7.  https://www.howtocode.com.bd/
+8.  https://internshala.com/internships/artificial%20intelligence%20(ai)-internship
+9.  https://medium.com/swlh/8-timeless-skills-to-learn-now-in-under-8-hours-to-change-your-life-forever-75e7b339373a
+10. https://regexone.com
