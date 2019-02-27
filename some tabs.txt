@@ -10,6 +10,11 @@ https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-inte
 https://www.reddit.com/r/MachineLearning
 
 
+Cheet Sheet
+1. https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+2. https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+
+
 Valobasha chino? ei nao ettogula valobasha:
 1. https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 
@@ -21,6 +26,7 @@ Valobasha chino? ei nao ettogula valobasha:
 4. https://www.kaggle.com/general/5375
 5. https://developers.google.com/machine-learning/crash-course/
 6. https://mlcourse.ai/
+7. https://www.fast.ai/
 
 
 Mathematics for Machine Learning:
@@ -54,6 +60,10 @@ Google Brain/ similar:
 4. https://buildyourfuture.withgoogle.com/internships/
 5. https://ai.google/research/teams/brain
 
+Samsung Internship
+1. https://www.geeksforgeeks.org/samsung-r-d-interview-experience-internship/
+2. https://www.geeksforgeeks.org/tag/samsung/
+3. https://www.indiabix.com/
 
 some challenges on foobar: 
 https://github.com/n3a9/google-foobar
