@@ -9,6 +9,8 @@ https://www.coursera.org/learn/python-data-visualization/supplement/3wS8w/list-o
 https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
 https://www.reddit.com/r/MachineLearning
 
+Research topic
+1. https://paperswithcode.com/sota
 
 Cheet Sheet
 1. https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
@@ -84,6 +86,7 @@ read these to improve English
 Blogs:
 1. Monisha apu: https://monishamomotaz.blogspot.com
 2. Shoriful Islam Sagore: http://0xshoriful.me/
+3. http://adib-hasan.net/hire-me/
 
 
 Some random shits on the internet:

@@ -44,3 +44,8 @@ https://data.nasa.gov/
 
 data.gov.bd
 bangladesh government open data
+
+https://bengali.ai/datasets/
+Machine Learning Repository of Bengali.Ai
+
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
