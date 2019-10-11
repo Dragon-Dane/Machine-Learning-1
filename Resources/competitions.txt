@@ -1,0 +1,8 @@
+1. https://summerofcode.withgoogle.com/archive/
+ -|1. http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/
+ -|2. https://drive.google.com/file/d/0B6OtIpAL6oa6U3JURDA2cjVZVlZ5UUVqcXRBTGlrY0hmUkVV/view
+
+2. https://season.kde.org/?q=program_home&prg=46
+3. https://hacktoberfest.digitalocean.com/
+4. https://codeheat.org/
+5. https://boss.codingblocks.com/ (only for college students)
