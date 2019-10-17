@@ -1,9 +1,9 @@
 load('ex3data1.mat');
 
+X = [ones(m, 1) X];
 m = size(X, 1);
+lambda = 0.1;
+theta_all = zeros(10, m);
 
-rand_indices = randperm(m);
-sel = X(rand_indices(1:5000), :);
 
-
-dis(X);
+[J grad] = lrcost(X, y, theta, lambda);
