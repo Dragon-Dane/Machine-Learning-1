@@ -9,3 +9,6 @@ J = (-(y' * hTheta) - (1 - y)' * log(1 - hTheta)) / m;
 J(2:end) = J(2:end) + lambda * (theta(2:end)' * theta(2:end)) / (2*m);
 
 grad = X' * (hTheta - y);
+grad(2:end) = grad(2:end) + lambda * (theta(2:end) / m;
+
+end
