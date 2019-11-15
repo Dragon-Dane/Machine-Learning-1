@@ -22,7 +22,7 @@ hTheta = sigmoid(X * theta);
 
 
 J = (-y' * log(hTheta) - (1 - y)' * log(1 - hTheta))/m;
-J = J + (theta(2:end)' * theta(2:end)) * lambda / (2*m);
+%J = J + (theta(2:end)' * theta(2:end)) * lambda / (2*m);
 
 grad = X' * (hTheta - y)/m;
 grad(2:end) = grad(2:end) + lambda*(theta(2:end))/m;
