@@ -1,5 +1,8 @@
 Roadmaps and Important links
 
+Awesome Courses
+Link: https://deep-learning-drizzle.github.io/
+
 To learn languages based on projects.
 Github: https://github.com/tuvtran/project-based-learning
 
