@@ -1,0 +1,14 @@
+1. Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle: https://www.kaggle.com/learn/overview
+
+2. Applied Data Science with Python | Coursera: https://www.coursera.org/specializations/data-science-python
+
+3. DeepLearning.AI TensorFlow Developer Professional Certificate | Coursera: https://www.coursera.org/professional-certificates/tensorflow-in-practice
+
+4. Deep Learning | Coursera: https://www.coursera.org/specializations/deep-learning
+
+5. TensorFlow: Data and Deployment | Coursera: https://www.coursera.org/specializations/tensorflow-data-and-deployment
+
+6. Natural Language Processing | Coursera: https://www.coursera.org/specializations/natural-language-processing
+
+7. AI for Medicine | Coursera: https://www.coursera.org/specializations/ai-for-medicine
+
