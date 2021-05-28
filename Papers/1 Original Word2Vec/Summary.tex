@@ -1,0 +1,46 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{url}
+
+\begin{document}
+
+\begin{titlepage}
+
+    \begin{center}
+        
+        {\LARGE
+            Summary\\
+            \vspace{0.5cm}
+            \textbf{A neural probabilistic language model} (Original Word2Vec)
+        }\\
+        \vspace{1cm}
+        \url{https://arxiv.org/pdf/1301.3781.pdf}
+        
+        \vfill
+        
+        {\large Md. Nafis Faiyaz}\\
+        \today
+        
+    \end{center}
+    
+\end{titlepage}
+
+\section{Research Objectives}
+    Introduce techniques to train high quality word vectors from a huge corpus with a low computational cost. They came up with continuous bag of words and skip-gram model.
+    
+\section{Dataset}
+    Training: Google News corpus with 6B tokens. First evaluated models trained on subsets of the training data, with vocabulary restricted to the most frequent 30k words. 
+    
+    Testing: 8869 semantic and 10675 syntactic questions were created in two steps: ﬁrst, a list of similar word pairs was created manually. Then, a large list of questions is formed by connecting two word pairs. e.g. a list of 68 large American cities and the states they belong to, and formed about 2.5K questions by picking two word pairs at random. Multi-word entities (such as New York) are not present
+    
+\section{Methodology}
+    Make a graph / pipeline (lucid chart)
+    
+\section{Experimental analysis}
+    Setup and results
+    
+\section{Discussion}
+    Contribution and future work    
+
+\end{document}

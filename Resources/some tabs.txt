@@ -8,6 +8,7 @@ http://aima.cs.berkeley.edu/books.html
 https://www.coursera.org/learn/python-data-visualization/supplement/3wS8w/list-of-data-sources-instructional-staff-curated
 https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
 https://www.reddit.com/r/MachineLearning
+https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html
 
 Research topic
 1. https://paperswithcode.com/sota
@@ -53,9 +54,6 @@ Machine Learning Competitions:
 3. Find local hackathons
 
 
-Datasets:
-1. http://archive.ics.uci.edu/ml/index.php
-
 Google Brain/ similar: 
 1. https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected
 2. https://careers.google.com/jobs#t=sq&q=j&li=20&l=false&jlo=en-US&jc=DATA_CENTER_OPERATIONS&jc=DEVELOPER_RELATIONS&jc=HARDWARE_ENGINEERING&jc=INFORMATION_TECHNOLOGY&jc=NETWORK_ENGINEERING&jc=TECHNICAL_WRITING&jc=TECHNICAL_SOLUTIONS&jc=TECHNICAL_INFRASTRUCTURE_ENGINEERING&jc=SOFTWARE_ENGINEERING&jc=MANUFACTURING_SUPPLY_CHAIN&jc=PRODUCT_MANAGEMENT&jc=USER_EXPERIENCE&je=INTERN&jcoid=7c8c6665-81cf-4e11-8fc9-ec1d6a69120c&jcoid=e43afd0d-d215-45db-a154-5386c9036525&jl=37.3860517%3A-122.0838511%3AMountain+View%2C+CA%2C+USA%3AUS%3AUnited+States%3A9.901223692706639%3ALOCALITY%3A%3A%3A%3ACA%3ASanta+Clara+County%3AMountain+View%3A%3A%3A%3A%3A%3A%3A%3A&jld=20&
@@ -63,17 +61,15 @@ Google Brain/ similar:
 4. https://buildyourfuture.withgoogle.com/internships/
 5. https://ai.google/research/teams/brain
 
+
 Samsung Internship
 1. https://www.geeksforgeeks.org/samsung-r-d-interview-experience-internship/
 2. https://www.geeksforgeeks.org/tag/samsung/
 3. https://www.indiabix.com/
 
+
 some challenges on foobar: 
-https://github.com/n3a9/google-foobar
-
-
-Rosen Solution: 
-http://rosensolutionmanual.com/?fbclid=IwAR3MrSQGG8C38zO7UIdKGwYY1e03iSZS9wLt3_CXmjkCLVsKyUmFyh-dcJY
+1. https://github.com/n3a9/google-foobar
 
 
 read these to improve English
@@ -95,9 +91,8 @@ Some random shits on the internet:
 2.  https://www.muscleandstrength.com/workouts/body-god-complete-bodyweight-muscle-building-plan
 3.  http://www.lmgtfy.com/
 4.  https://www.quora.com/Does-internet-service-provider-track-the-websites-you-visit
-5.  http://rs.io/100-interesting-data-sets-for-statistics/
+5.  https://www.obviously.ai/
 6.  https://scholar.google.com/
 7.  https://www.howtocode.com.bd/
 8.  https://internshala.com/internships/artificial%20intelligence%20(ai)-internship
 9.  https://medium.com/swlh/8-timeless-skills-to-learn-now-in-under-8-hours-to-change-your-life-forever-75e7b339373a
-10. https://regexone.com

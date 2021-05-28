@@ -12,3 +12,5 @@ https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper
 
 https://www.reddit.com/r/MachineLearning/
 
+https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6
+
