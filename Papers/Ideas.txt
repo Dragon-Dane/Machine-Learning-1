@@ -1,0 +1,4 @@
+1. add squared nodes in neural network
+2. Not total random initialization. instead, use e^(random normal distribution)
+3. Hysteresis loop as an activation function
+4. InceptionNet + denseNet

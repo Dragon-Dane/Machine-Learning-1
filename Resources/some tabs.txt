@@ -10,6 +10,11 @@ https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-inte
 https://www.reddit.com/r/MachineLearning
 https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html
 
+Tutorials
+1. https://d2l.ai/
+2. https://nlpoverview.com/
+3. https://machinelearningmedium.com/
+
 Research topic
 1. https://paperswithcode.com/sota
 
@@ -23,7 +28,7 @@ Valobasha chino? ei nao ettogula valobasha:
 
 
 *Next ML Course* 
-1. https://www.coursera.org/specializations/deep-learning
+1. https://www.coursera.org/specializations/deep-learning (done)
 2. https://www.coursera.org/specializations/machine-learning-tensorflow-gcp#pricing
 3. https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
 4. https://www.kaggle.com/general/5375

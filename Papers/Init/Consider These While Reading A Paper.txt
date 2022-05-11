@@ -1,0 +1,22 @@
+Summary:
+	1 Research Objectives
+	2 Dataset
+	3 Methodology
+	4 Experimental analysis
+	5 Discussion
+
+Ecient Estimation of Word Representations in Vector Space:
+	1 Authors, Year and Title
+	2 Are any of the authors familiar? Do I know their other works?
+	3 Key terms and concepts yet to learn
+	4 Previous research and ideas (Introduction)
+	5 Reasoing for performing this research (Intro-duction)
+	6 Objectives of the study
+	7 Equipment/software used (Methods)
+	8 Variables being measured in experimentation (Methods)
+	9 Statistical tests? Results of them (Methods/Results)
+	10 Main Findings (Results)
+	11 How do these results fit into context of other research and their 'field'? (Discussion)
+	12 Explanation of each figure and their significance
+	13 Reproducibile? Is source code available?
+	14 My thoughts on results. Do they seem valid?

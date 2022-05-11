@@ -1,0 +1,18 @@
+Softmax-based Approaches
+
+    Hierarchical Softmax
+    Differentiated Softmax
+    CNN-Softmax
+
+Sampling-based Approaches
+
+    Importance Sampling
+    Adaptive Importance Sampling
+    Target Sampling
+    Noise Contrastive Estimation
+    Negative Sampling
+    Self-Normalisation
+    Infrequent Normalisation
+    Other Approaches
+
+
